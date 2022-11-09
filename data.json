@@ -1,0 +1,40 @@
+[
+    {
+        "heading_text": "Fill in a, e, i, o or u to complete these words.",
+        "heading_bgColor":"#9b1714",
+        "heading_txtColor":"#fff",
+        "finish_image": "bye.jpg"
+    },
+    {
+        "Q": "The children are#in the bedroom at the moment.",
+        "blanks":["sleeping"],
+        "question_image": "sleeping-children.webp"
+    },
+    {
+        "Q": "India is our#.",
+        "blanks":["country"],
+        "question_image": "india.webp"
+
+    },
+    {
+        "Q": "The#is a pet animal.",
+        "blanks":["dog"],
+        "question_image": "dog.webp"
+    },
+    {
+        "Q": "We should brush our#twice a day.",
+        "blanks":["teeth"],
+        "question_image": "brushingteeth.webp"
+    },
+    {
+        "Q": "Running is a good#.",
+        "blanks":["exercise"],
+        "question_image": "running.webp"
+    },
+    {
+        "Q": "An apple a day keeps the#away.",
+        "blanks":["doctor"],
+        "question_image": "apple-doctor.webp"
+    }
+]
+
